@@ -1,0 +1,2 @@
+defmodule Notes do
+end
